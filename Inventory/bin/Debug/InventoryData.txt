@@ -1,0 +1,30 @@
+﻿507-Candle (small)-63-10,99
+519-Bowl (large)-75-5,49
+175-Cup-50-7,99
+859-Box of pins-200-3,99
+481-Jug (plastic)-90-12,49
+263-Cup with saucer-36-18,99
+732-Plate (side)-60-14,99
+659-Scatter cushion-24-68,5
+641-Bowl (small)-40-19,99
+629-Plate (big)-30-22,99
+540-Notebook (A5)-80-6,49
+197-Pillowcase-65-39,99
+750-Pillow inner-70-19,99
+828-Fridge Magnet-24-10,49
+297-Notebook (A4)-55-16,99
+8-Jug (glass)-25-24,99
+773-Blanket (double)-13-125,75
+531-Bowl (medium)-35-13,99
+49-Light (USB)-45-107,49
+762-Candle (large)-41-37,9
+169-Teapot-12-65,99
+243-Kettle-28-399,9
+773-Binder (big)-20-27,99
+106-Binder (small)-28-17,99
+130-Blanket (small)-60-65,99
+344-Mug (plain)-75-28,99
+925-Mug (commic)-64-54,99
+79-Mug (set of 4)-18-90,5
+625-Sheet (double)-40-95
+202-Cutlery (set of 24)-14-299

@@ -1,0 +1,7 @@
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\bin\Debug\DemoJobs.exe.config
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\bin\Debug\DemoJobs.exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\bin\Debug\DemoJobs.pdb
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\obj\Debug\DemoJobs.csproj.AssemblyReference.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\obj\Debug\DemoJobs.csproj.CoreCompileInputs.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\obj\Debug\DemoJobs.exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\DemoJobs\obj\Debug\DemoJobs.pdb

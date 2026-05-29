@@ -1,0 +1,15 @@
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\bin\Debug\Library.exe.config
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\bin\Debug\Library.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\bin\Debug\Library.pdb
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.pdb
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\bin\Debug\Library.exe.config
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\bin\Debug\Library.exe
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\bin\Debug\Library.pdb
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\obj\Debug\Library.exe
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Library\obj\Debug\Library.pdb

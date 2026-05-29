@@ -1,0 +1,22 @@
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\bin\Debug\Inventory.exe.config
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\bin\Debug\Inventory.exe
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\bin\Debug\Inventory.pdb
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\obj\Debug\Inventory.exe
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Jan exam (2023)\Inventory\obj\Debug\Inventory.pdb
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\obj\Debug\Inventory.csproj.AssemblyReference.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\obj\Debug\Inventory.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\obj\Debug\Inventory.pdb
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\bin\Debug\Inventory.exe.config
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\bin\Debug\Inventory.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\2023 - Nov exam\Inventory (T drive)\bin\Debug\Inventory.pdb
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\bin\Debug\Inventory.exe
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\obj\Debug\Inventory.exe
+C:\Users\Phathutshedzo\OneDrive\Pictures\Documents\BIT\CLASS PROJECTS\Inventory\obj\Debug\Inventory.pdb
